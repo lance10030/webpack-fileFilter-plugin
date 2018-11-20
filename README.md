@@ -1,6 +1,6 @@
 # webpack-fileFilter-plugin
 delete files match the reg during bundling
-## exsample
+## example
 
 ```
 var FileFilterPlugin = require(./index.js)
